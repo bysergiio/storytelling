@@ -25,7 +25,9 @@ Evaluación de las Historias: https://forms.gle/bJ84nDT932LKhAvv6
   
 - (F3) **ZEKKE RINKU**
   * Github: [https://github.com/bysergiio/my_storytelling](https://github.com/bysergiio/zekke-rinku) 
-  * Interactivo:  
+  * Interactivo:
+  * Prototipo: https://www.figma.com/proto/r3tSUnwvSXYVAdxb7BYcwX/Teaser-Instagram-Zekke?node-id=0-1&t=tTPtP7cuWEwiJlrl-1
+  * Narración: https://arcweave.com/app/project/25lbPNp6D4
 
 - (F4) **Robert Williams**
    * Github: https://github.com/hugoolivencia/my_storytelling
